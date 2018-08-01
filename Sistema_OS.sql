@@ -1,5 +1,4 @@
 show databases;
-drop database dbinfox;
 create database dbinfox;
 use dbinfox;
 show tables;
